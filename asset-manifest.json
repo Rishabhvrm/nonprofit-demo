@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/nonprofit-demo/static/css/main.f855e6bc.css",
-    "main.js": "/nonprofit-demo/static/js/main.0118311e.js",
+    "main.css": "/nonprofit-demo/static/css/main.441e7119.css",
+    "main.js": "/nonprofit-demo/static/js/main.81f53813.js",
     "index.html": "/nonprofit-demo/index.html",
-    "main.f855e6bc.css.map": "/nonprofit-demo/static/css/main.f855e6bc.css.map",
-    "main.0118311e.js.map": "/nonprofit-demo/static/js/main.0118311e.js.map"
+    "main.441e7119.css.map": "/nonprofit-demo/static/css/main.441e7119.css.map",
+    "main.81f53813.js.map": "/nonprofit-demo/static/js/main.81f53813.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.0118311e.js"
+    "static/css/main.441e7119.css",
+    "static/js/main.81f53813.js"
   ]
 }
