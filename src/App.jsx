@@ -15,7 +15,7 @@ function App() {
       <div className="App">
         <Header />
         <Routes>
-          <Route path="/" element={<Body />} />  {/* Default route */}
+          <Route path="/nonprofit-demo/" element={<Body />} />  {/* Default route */}
           <Route path="/get-involved" element={<GetInvolved />} />  
           <Route path="/programs" element={<Programs />} />  
           <Route path="/activities" element={<Activities />} />  {/* Route for Activities */}

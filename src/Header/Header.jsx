@@ -8,7 +8,7 @@ export default function Header() {
   console.log(window.location.pathname);
   return (
     <div className={styles.header}>
-      <Link to="/" className={styles.headerLink}>
+      <Link to="/nonprofit-demo/" className={styles.headerLink}>
       <div className={styles.title}>
         <h1>Delavan Grider Community Center 🏘 🌍</h1>
         {/* <p>We are dedicated to making the world a better place. </p>  */}
