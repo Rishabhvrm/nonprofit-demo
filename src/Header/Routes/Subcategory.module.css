@@ -1,0 +1,101 @@
+.heroSection {
+    display: flex;
+    align-items: center;
+    gap: 48px;
+    padding: 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .imageGroup {
+    flex: 1;
+    position: relative;
+  }
+  
+  .mainImage {
+    width: 100%;
+    border-radius: 24px;
+    overflow: hidden;
+  }
+  
+  .tags {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    display: flex;
+    gap: 12px;
+  }
+  
+  .tag {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-size: 14px;
+  }
+  
+  .statsImage {
+    display: flex;
+    margin-top: 20px;
+    position: relative;
+  }
+  
+  .statBox {
+    background: #F4A460; /* Sandy brown color */
+    padding: 20px;
+    border-radius: 16px;
+    color: white;
+    width: 180px;
+  }
+  
+  .statNumber {
+    font-size: 48px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .statText {
+    font-size: 14px;
+    margin: 0;
+  }
+  
+  .secondaryImage {
+    flex-grow: 1;
+    margin-left: 20px;
+    border-radius: 16px;
+    overflow: hidden;
+  }
+  
+  .content {
+    flex: 1;
+  }
+  
+  .title {
+    font-size: 40px;
+    color: #2B4F76; /* Navy blue color */
+    margin-bottom: 24px;
+    line-height: 1.2;
+  }
+  
+  .description {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 24px;
+  }
+  
+  .learnMore {
+    color: #F4A460;
+    text-decoration: underline;
+    font-weight: 500;
+    cursor: pointer;
+    border: none;
+    background: none;
+    padding: 0;
+  }
+  
+  @media (max-width: 768px) {
+    .heroSection {
+      flex-direction: column;
+      padding: 20px;
+    }
+  }

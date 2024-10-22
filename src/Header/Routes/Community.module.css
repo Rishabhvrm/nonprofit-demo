@@ -1,0 +1,8 @@
+.community {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #da4747;
+}
