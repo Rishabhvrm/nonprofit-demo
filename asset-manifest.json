@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nonprofit-demo/static/css/main.c0b885a0.css",
-    "main.js": "/nonprofit-demo/static/js/main.130bca6c.js",
+    "main.js": "/nonprofit-demo/static/js/main.9fc0c888.js",
     "static/media/books-1.jpg": "/nonprofit-demo/static/media/books-1.2a5c3f0ae12ba79d1983.jpg",
     "static/media/gymnasium-2.jpg": "/nonprofit-demo/static/media/gymnasium-2.18b357f631850f6d8224.jpg",
     "static/media/books.jpg": "/nonprofit-demo/static/media/books.3dc6e40f7f72049f5642.jpg",
@@ -35,10 +35,10 @@
     "static/media/student-table.jpg": "/nonprofit-demo/static/media/student-table.e9dad85adb89313c62ea.jpg",
     "index.html": "/nonprofit-demo/index.html",
     "main.c0b885a0.css.map": "/nonprofit-demo/static/css/main.c0b885a0.css.map",
-    "main.130bca6c.js.map": "/nonprofit-demo/static/js/main.130bca6c.js.map"
+    "main.9fc0c888.js.map": "/nonprofit-demo/static/js/main.9fc0c888.js.map"
   },
   "entrypoints": [
     "static/css/main.c0b885a0.css",
-    "static/js/main.130bca6c.js"
+    "static/js/main.9fc0c888.js"
   ]
 }
