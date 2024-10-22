@@ -3,10 +3,11 @@
   align-items: center;
   justify-content: space-evenly;
   margin-top: 1px;
-  background-color: hsl(5, 100%, 73%);
+  /* background-color: hsl(5, 100%, 73%); */
+  background-color: #4E5D6C;
   color: white;
   /* padding: 2px; */
-  position: fixed;
+  /* position: fixed; */
   width: 100vw;
   bottom: 0;
 }

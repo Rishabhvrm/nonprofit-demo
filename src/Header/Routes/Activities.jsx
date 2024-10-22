@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./Activities.module.css";
+import styles from "./Category.module.css";
 import ComputerLab from "./SubcategoriesActivitiesAndResources/ComputerLab";
 import ProfessionalNetworking from "./SubcategoriesActivitiesAndResources/ProfessionalNetworking";
 import Toastmasters from "./SubcategoriesActivitiesAndResources/Toastmasters";

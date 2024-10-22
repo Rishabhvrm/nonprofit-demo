@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./Activities.module.css";
+import styles from "./Category.module.css";
 import FarmersMarket from "./SubcategoriesCommunitySpaces/FarmersMarket";
 import Gymnasium from "./SubcategoriesCommunitySpaces/Gymnasium";
 import Modal from "../../Modal";

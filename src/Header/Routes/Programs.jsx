@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./Activities.module.css";
+import styles from "./Category.module.css";
 import Modal from "../../Modal";
 import image1 from "../../assets/code-blue-shelter.jpg";
 import image2 from "../../assets/food-pantry-1.jpg";

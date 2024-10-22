@@ -16,7 +16,7 @@
   }
   
   .highlight {
-    color: #ff6f61;
+    color: #4badf7;
   }
   
   .hero p {
@@ -40,15 +40,18 @@
   }
   
   .donate-btn {
-    background-color: #ff6f61;
+    /* background-color: #ff6f61; */
+    background-color: #4badf7;
     color: white;
     border-radius: 30px;
   }
   
   .learn-more-btn {
     background-color: white;
-    border: 2px solid #ff6f61;
-    color: #ff6f61;
+    border: 2px solid #4badf7;
+    /* border: 2px solid #ff6f61; */
+    /* color: #ff6f61; */
+    color: #2A3B58;
     border-radius: 30px;
   }
   

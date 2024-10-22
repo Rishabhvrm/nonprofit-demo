@@ -3,7 +3,8 @@
   justify-content: space-between;
   align-items: center;
   /* background-color: #282c34; */
-  background-color: hsl(5, 100%, 73%);
+  /* background-color: hsl(5, 100%, 73%); */
+  background-color: #2A3B58;
   padding: 8px;
   padding-left: 2%;
   padding-right: 2%;
@@ -28,7 +29,8 @@
 }
 
 .navButton {
-  background-color: hsl(5, 100%, 73%);
+  /* background-color: hsl(5, 100%, 73%); */
+  background-color: #2A3B58;
   font-weight: bold;
   border: none;
   color: #fce9e8;
@@ -59,7 +61,8 @@
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #fb3927;; 
+  /* background-color: #fb3927;;  */
+  background-color: #5fb6f9;
   transform: scaleX(0);
   transition: transform 0.3s ease;
 }
