@@ -1,0 +1,89 @@
+/* Modal Container Styling */
+.modal {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* Title and Headings */
+  .modal__title {
+    font-size: 2rem;
+    color: #3b4a66; /* Subtle dark-blue */
+    margin-bottom: 15px;
+  }
+  
+  .modal__contact h2 {
+    font-size: 1.5rem;
+    color: #3b4a66;
+    margin-bottom: 10px;
+  }
+  
+  /* Text Content */
+  .modal__text {
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 20px;
+    line-height: 1.6;
+  }
+  
+  /* List Styling */
+  .modal__list {
+    list-style-type: disc;
+    margin: 40px 80px 40px;
+    padding-left: 20px;
+    text-align: left;
+  }
+  
+  .modal__list li {
+    font-size: 1rem;
+    color: #444;
+    margin-bottom: 8px;
+  }
+  
+  /* Support Emphasis */
+  .modal__support {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 30px;
+  }
+  
+  /* Contact Information */
+  .modal__contact p {
+    font-size: 1rem;
+    color: #444;
+  }
+  
+  .modal__contact a {
+    color: #3b4a66;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .modal__contact a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .modal {
+      padding: 20px;
+    }
+  
+    .modal__title {
+      font-size: 1.8rem;
+    }
+  
+    .modal__text, .modal__list li {
+      font-size: 0.95rem;
+    }
+  
+    .modal__support {
+      font-size: 1.1rem;
+    }
+  }
+  
