@@ -1,7 +1,7 @@
 import React from 'react';
 import './Banner.css';
 import { FiArrowRight } from 'react-icons/fi';
-import image4 from "../assets/home-page.jpg";
+import image4 from "../../assets/home-page.jpg";
 
 export default function Banner () {
   return (
